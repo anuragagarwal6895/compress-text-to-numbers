@@ -1,7 +1,7 @@
 # compress-text-to-numbers
 Compress Text Data to Numbers using Clojure
 
-## Descriptiom
+## Description
 
 
 You will be developing an application that will allow users to compress and decompress simple text files. A small menu will provide users with a handful of options for manipulating and displaying input. The menu will be particularly convenient, as it will allow both students and graders to evaluate the accuracy of your application.
